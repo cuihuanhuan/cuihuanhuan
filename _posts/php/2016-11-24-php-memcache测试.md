@@ -13,7 +13,7 @@ windows memcache扩展：https://pecl.php.net/package/memcache/3.0.8/windows
 
 选择windows memcache扩展
 
-![img](img/php/memcache-demo-1.png)
+![img](/img/php/memcache-demo-1.png)
 
 选择对应PHP版本的扩展,我是5.6
 ![img](img/php/memcache-demo-2.png)
@@ -23,12 +23,12 @@ windows memcache扩展：https://pecl.php.net/package/memcache/3.0.8/windows
 修改php.ini：添加一句 extension=php_memcache.dll
 
 查看phpinfo,memcache是否加载
-![img](img/php/memcache-demo-3.png)
+![img](/img/php/memcache-demo-3.png)
 
 
 做memcache还需要安装memcached服务器端软件
 
-![img](img/php/memcache-server-1.png)
+![img](/img/php/memcache-server-1.png)
 ![img](img/php/memcache-server-2.png)
 
 memcache测试：
@@ -58,4 +58,4 @@ else {
 ?>
 ```
 
-![img](img/php/memcache-demo-4.png)
+![img](/img/php/memcache-demo-4.png)
