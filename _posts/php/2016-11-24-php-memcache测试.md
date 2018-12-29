@@ -29,7 +29,7 @@ windows memcache扩展：https://pecl.php.net/package/memcache/3.0.8/windows
 做memcache还需要安装memcached服务器端软件
 
 ![img](/img/php/memcache-server-1.png)
-![img](img/php/memcache-server-2.png)
+![img](/img/php/memcache-server-2.png)
 
 memcache测试：
 ```
