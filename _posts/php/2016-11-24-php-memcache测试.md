@@ -16,7 +16,7 @@ windows memcache扩展：https://pecl.php.net/package/memcache/3.0.8/windows
 ![img](/img/php/memcache-demo-1.png)
 
 选择对应PHP版本的扩展,我是5.6
-![img](img/php/memcache-demo-2.png)
+![img](/img/php/memcache-demo-2.png)
 
 下载解压将memcache.dll放在C:\Program Files (x86)\info2soft-ctrlcenter\PHP\ext
 
