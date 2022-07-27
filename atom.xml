@@ -9,11 +9,11 @@
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://tom.preston-werner.com/</id>
  <author>
-   <name>Tom Preston-Werner</name>
-   <email>tom@mojombo.com</email>
+   <name>cuihuanhuan</name>
+   <email></email>
  </author>
 
- {% for post in site.posts %}
+<!--  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="http://tom.preston-werner.com{{ post.url }}"/>
@@ -21,6 +21,6 @@
    <id>http://tom.preston-werner.com{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
- {% endfor %}
+ {% endfor %} -->
 
 </feed>
